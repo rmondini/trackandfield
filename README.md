@@ -10,4 +10,4 @@ The code does the following:
 - Uses Machine Learning tools to build different regression models that predict 200m performances based on 100m performances  
 - Compares the different models to determine which is the best one.  
   
-See the code for more details and references.
+See the jupyter notebook for more details and references.
