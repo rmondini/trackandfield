@@ -1,6 +1,8 @@
 # tracknfieldproject
 
-We analyze the International Association of Athletics Federations (IAAF) 100-meter and 200-meter all-time men and women lists. The code does the following:  
+We analyze the International Association of Athletics Federations (IAAF) 100-meter and 200-meter all-time men and women lists. The code is written in Python 2 and contained in a Jupyter notebook.  
+
+The code does the following:  
 
 - Scrapes data from the IAAF website  
 - Builds Pandas DataFrames containing all the relevant information  
