@@ -1,4 +1,4 @@
-# tracknfieldproject
+# trackandfield
 
 We analyze the World Athletics (formerly known as International Association of Athletics Federations - IAAF) 100-meter and 200-meter all-time men and women lists. The code is written in Python 3 and contained in a Jupyter notebook.  
 
