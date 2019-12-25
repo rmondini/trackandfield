@@ -8,7 +8,7 @@ The code does the following:
 - Builds Pandas DataFrames containing all the relevant information  
 - Performs data cleaning and pre-processing
 - Performs several exploratory analyses on the 100m lists and produces plots to visualize the findings  
-- Uses Machine Learning tools to build different regression models that predict an athlete's 200m Personal Best (PB) based on their 100m PB, age at 100m PB, gender, and nationality 
-- Compares the different models to determine which is the most accurate one.  
+- Uses Machine Learning tools to build two different models (linear regression vs neural network) that predict an athlete's 200m Personal Best (PB) based on their 100m PB, age at 100m PB, gender, and nationality 
+- Tests and compares the two models to determine which is the most accurate one (using R2 scores and residual plots).
   
-See the jupyter notebook for many more details and references.
+See the jupyter notebook for the code, more details, and references.
