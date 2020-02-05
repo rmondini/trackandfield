@@ -11,4 +11,4 @@ The code does the following:
 - Uses Machine Learning tools to build two different models (linear regression vs neural network) that predict an athlete's 200m Personal Best (PB) based on their 100m PB, age at 100m PB, gender, and nationality 
 - Tests and compares the two models to determine which is the most accurate one (using R2 scores and residual plots).
   
-See the jupyter notebook for the code, more details, and references.
+See the jupyter notebook 'all_time_sprint_analysis.ipynb' for the code, more details, and references.
